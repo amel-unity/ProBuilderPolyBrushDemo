@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CarpetWave
-  m_Shader: {fileID: -6465566751694194690, guid: bcd8e2b0a71517443a88659e08b00429,
+  m_Shader: {fileID: -6465566751694194690, guid: 73efe1c61f24ac24981f975f5ca3b0c3,
     type: 3}
   m_ShaderKeywords: _METALLICSPECGLOSSMAP _NORMALMAP _OCCLUSIONMAP
   m_LightmapFlags: 4
@@ -87,9 +87,9 @@ Material:
     - _QueueOffset: 0
     - _Range: 5
     - _ReceiveShadows: 1
-    - _ShakeAmplitude: 0.157
+    - _ShakeAmplitude: 0.241
     - _ShakeFXTime: 0
-    - _ShakeFrequency: 5.5
+    - _ShakeFrequency: 2.51
     - _Shininess: 0
     - _Smoothness: 1
     - _SmoothnessSource: 0
@@ -104,7 +104,7 @@ Material:
     m_Colors:
     - Vector3_12D3E3EB: {r: 1, g: 1, b: 1, a: 0}
     - Vector3_D10F33CA: {r: -2.5, g: 0, b: 0, a: 0}
-    - Vector4_40D0056C: {r: 0, g: 0, b: 0, a: 0}
+    - Vector4_40D0056C: {r: 1, g: 1, b: 1, a: 0}
     - _BaseColor: {r: 0.75471693, g: 0.7369171, b: 0.7369171, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

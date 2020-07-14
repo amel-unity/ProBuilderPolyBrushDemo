@@ -16,7 +16,7 @@ MonoBehaviour:
   - gameObject: {fileID: 1601854496961328, guid: caea32e62fcc7ec4cbe028e4d6fae967,
       type: 3}
     settings:
-      m_Strength: 1
+      m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -33,7 +33,7 @@ MonoBehaviour:
   - gameObject: {fileID: 1658236888111968, guid: 2514ac27e3c642e47860e174d20e3aeb,
       type: 3}
     settings:
-      m_Strength: 50
+      m_Strength: 1
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -50,7 +50,7 @@ MonoBehaviour:
   - gameObject: {fileID: 1492687703916904, guid: b109e9c5ed7fa2948babb88daa9901c9,
       type: 3}
     settings:
-      m_Strength: 1
+      m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -67,7 +67,7 @@ MonoBehaviour:
   - gameObject: {fileID: 1215118662403220, guid: e20bb7877bc0b2f4abf5115af4f24b04,
       type: 3}
     settings:
-      m_Strength: 68.36425
+      m_Strength: 1
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -101,7 +101,7 @@ MonoBehaviour:
   - gameObject: {fileID: 1059970628697090, guid: d2a1db6ab6d37ac4886c15220cf1c508,
       type: 3}
     settings:
-      m_Strength: 81.38534
+      m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -118,7 +118,7 @@ MonoBehaviour:
   - gameObject: {fileID: 1477333530115174, guid: 4783008bdd614ec44b38001c339af0dc,
       type: 3}
     settings:
-      m_Strength: 42.73693
+      m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -135,7 +135,7 @@ MonoBehaviour:
   - gameObject: {fileID: 1115189763062074, guid: 46bfa179df12c014b8e0c1330c572dd4,
       type: 3}
     settings:
-      m_Strength: 74.70742
+      m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
